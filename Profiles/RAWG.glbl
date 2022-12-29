@@ -79,4 +79,49 @@
       <initValue>'creator-roles'</initValue>
       <name>creatorRolesPath</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/additions'</initValue>
+      <name>additionsPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://api.rawg.io/api/'</initValue>
+      <name>rawgUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/development-team'</initValue>
+      <name>developmentTeamPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/game-series'</initValue>
+      <name>seriesPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/parent-games'</initValue>
+      <name>parentGamesPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/screenshots'</initValue>
+      <name>screenshotPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/achievements'</initValue>
+      <name>achievementsPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/movies'</initValue>
+      <name>trailersPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/reddit'</initValue>
+      <name>subredditPath</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
