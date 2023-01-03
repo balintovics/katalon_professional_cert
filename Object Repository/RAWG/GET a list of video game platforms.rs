@@ -31,7 +31,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.baseUrl}${GlobalVariable.platformsPath}/${platformId}?key=${GlobalVariable.key}</restUrl>
+   <restUrl>${GlobalVariable.rawgUrl}${GlobalVariable.platformsPath}?key=${GlobalVariable.key}&amp;page=${page}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -50,11 +50,11 @@
       <activate>true</activate>
    </validationSteps>
    <variables>
-      <defaultValue>'4'</defaultValue>
+      <defaultValue>1</defaultValue>
       <description></description>
       <id>b8b45b34-07be-45f8-a987-63b6f58bc976</id>
       <masked>false</masked>
-      <name>platformId</name>
+      <name>page</name>
    </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
@@ -68,13 +68,12 @@ import internal.GlobalVariable as GlobalVariable
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-
 assertThat(response.getResponseText()).contains('results')
 
 WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-</verificationScript>
+return response</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

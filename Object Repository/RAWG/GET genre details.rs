@@ -57,8 +57,8 @@ import com.kms.katalon.core.webservice.verification.WSResponseManager
 import groovy.json.JsonSlurper
 import internal.GlobalVariable as GlobalVariable
 
-RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
+ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
+return response</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

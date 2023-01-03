@@ -16,6 +16,16 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import groovy.json.JsonSlurper
 
-WS.sendRequest(findTestObject('RAWG/GET a list of games'))
 
+def slurper = new groovy.json.JsonSlurper()
+
+def page = 1
+def request = WS.sendRequest(findTestObject('RAWG/GET a list of games', [('page') : page]))
+
+def hasNext = slurper.parseText(request.getResponseBodyContent()).next
+
+while (hasNext) {
+	request = WS.sendRequest(findTestObject('RAWG/GET a list of games', [('page') : ++page]))
+}

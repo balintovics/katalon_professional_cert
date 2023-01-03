@@ -31,7 +31,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.baseUrl}${GlobalVariable.gamesPath}?key=${GlobalVariable.key}</restUrl>
+   <restUrl>${GlobalVariable.rawgUrl}${GlobalVariable.gamesPath}?key=${GlobalVariable.key}&amp;page=${page}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -40,15 +40,13 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <validationSteps>
-      <id>d583234a-7a26-4151-972b-8338848984b0</id>
-      <name>New Validation</name>
-      <type>JSON_SCHEMA</type>
-      <dataType>AUTO</dataType>
-      <target>RESPONSE</target>
-      <data>results</data>
-      <activate>true</activate>
-   </validationSteps>
+   <variables>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>714600ca-d7e3-41fa-a746-7f189204ea21</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
@@ -61,13 +59,17 @@ import internal.GlobalVariable as GlobalVariable
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-
 assertThat(response.getResponseText()).contains('results')
 
 WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-</verificationScript>
+def slurper = new groovy.json.JsonSlurper() 
+def slurped = slurper.parseText(response.getResponseBodyContent().results)
+assert slurped instanceof List
+assertThat(slurped, containsString('The Witcher 3'))
+
+return response</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

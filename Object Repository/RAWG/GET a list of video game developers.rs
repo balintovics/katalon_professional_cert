@@ -31,7 +31,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.baseUrl}${GlobalVariable.developersPath}?key=${GlobalVariable.key}</restUrl>
+   <restUrl>${GlobalVariable.rawgUrl}${GlobalVariable.developersPath}?key=${GlobalVariable.key}&amp;page=${page}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -49,6 +49,13 @@
       <data>results</data>
       <activate>true</activate>
    </validationSteps>
+   <variables>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>a83e1bf4-ca46-475a-9794-7fd14b9d98cb</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
@@ -61,13 +68,12 @@ import internal.GlobalVariable as GlobalVariable
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-
 assertThat(response.getResponseText()).contains('results')
 
 WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-</verificationScript>
+return response</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

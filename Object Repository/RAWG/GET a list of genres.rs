@@ -61,13 +61,12 @@ import internal.GlobalVariable as GlobalVariable
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
-
 assertThat(response.getResponseText()).contains('results')
 
 WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-</verificationScript>
+return response</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET the list of all games</name>
+   <tag>rawg</tag>
+   <comment></comment>
+   <testCaseGuid>66d02d97-5799-4748-8e89-2af093c008b6</testCaseGuid>
+</TestCaseEntity>
