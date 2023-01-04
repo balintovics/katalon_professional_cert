@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add to</name>
+   <tag></tag>
+   <elementGuidId>4eda0352-838f-4d2f-bc0f-c3062961ab9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-wishlist__subtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d97d49b-7834-42ab-9f62-51737a81c807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-wishlist__subtitle</value>
+      <webElementGuid>5a08bfd3-b044-4187-8494-96138e4dd81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to</value>
+      <webElementGuid>ee244084-28d9-4475-8913-45fb267a71c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;game-buttons-new game__buttons&quot;]/div[@class=&quot;btn-wishlist btn-wishlist_inactive&quot;]/div[@class=&quot;btn-wishlist__text&quot;]/div[@class=&quot;btn-wishlist__subtitle&quot;]</value>
+      <webElementGuid>66401539-9357-457d-9327-a4662f5caaf0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[4]/div/div</value>
+      <webElementGuid>e60a8772-2f9d-462b-b654-d486dd01a630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My games'])[1]/following::div[5]</value>
+      <webElementGuid>eca17ea0-1eb6-4b75-9632-0e56663b80fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to'])[1]/following::div[6]</value>
+      <webElementGuid>6159a4ac-618c-48d1-ace9-df097f32ca34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save to'])[1]/preceding::div[5]</value>
+      <webElementGuid>5dbc9325-9a3f-4705-86df-9b9786e2eb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[4]/div/div</value>
+      <webElementGuid>ca791c37-a7f3-4ac7-8165-49c2c4e01b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add to' or . = 'Add to')]</value>
+      <webElementGuid>ed9ecfec-ef49-4f08-ab3a-72d91d6b2f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[3]/div/div/div</value>
+      <webElementGuid>1881a9fd-9521-41e1-bb64-2c221e54b305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Witcher 3: Wild Hunt'])[3]/following::div[9]</value>
+      <webElementGuid>9614c2f6-22cc-41b7-b994-5ebcd9269491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Playtime: 46 hours'])[1]/following::div[9]</value>
+      <webElementGuid>0c997470-80d5-4a67-bebe-fd50a9a8ee7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My games'])[1]/preceding::div[1]</value>
+      <webElementGuid>09ab899e-96e7-4a50-9d0c-78eb33301d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to'])[2]/preceding::div[4]</value>
+      <webElementGuid>3813f1a9-0fe3-46cc-ab5d-7f9f606d5aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to']/parent::*</value>
+      <webElementGuid>224e9ece-a04e-4493-9173-6f44d8eac635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[3]/div/div/div</value>
+      <webElementGuid>e079dfbc-1c95-4d18-82a9-9dcaa5ef9b40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

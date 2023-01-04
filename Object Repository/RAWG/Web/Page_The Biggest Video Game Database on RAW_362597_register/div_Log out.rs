@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log out</name>
+   <tag></tag>
+   <elementGuidId>4fd18fba-aa72-4b28-a7ea-822c82d30cc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/header/div/div[3]/div[3]/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-menu-content__bottom</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>966ff043-aa89-41b5-a734-8eb3185a3004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-menu-content__bottom</value>
+      <webElementGuid>b0c864c1-e456-4183-b7c2-248eb40bab5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>98600426-67d2-4514-bc36-bec3a1c5e441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a9294285-ec60-4e58-8861-e17f6ccb23a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log out</value>
+      <webElementGuid>b3a214b5-9fac-42f1-aa05-b98572cb9139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page page_secondary&quot;]/header[@class=&quot;header page__header&quot;]/div[@class=&quot;header__wrapper&quot;]/div[@class=&quot;header__item&quot;]/div[@class=&quot;header-menu&quot;]/div[@class=&quot;dropdown__container dropdown__container_opened dropdown__container_standard-widths dropdown__container_menu header-menu-dropdown-container&quot;]/div[@class=&quot;dropdown__content&quot;]/div[@class=&quot;header-menu-content&quot;]/div[2]/div[@class=&quot;header-menu-content__bottom&quot;]</value>
+      <webElementGuid>31af7117-b1fd-4291-bbe2-81a07e9d97f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/header/div/div[3]/div[3]/div[3]/div/div/div[2]/div</value>
+      <webElementGuid>60a5c9d6-4856-4919-b6e4-caad41a57c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sitemap'])[1]/following::div[2]</value>
+      <webElementGuid>69e28bed-1001-424c-aab6-b3715300bdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get an API key'])[1]/following::div[2]</value>
+      <webElementGuid>ba53d01c-d442-44b2-8c99-7e9f4baa5f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place all your games on one shelf'])[1]/preceding::div[1]</value>
+      <webElementGuid>f769f76c-d440-4793-b3f8-c45c5b9f06de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steam'])[1]/preceding::div[2]</value>
+      <webElementGuid>521f1829-438b-46f6-b5c7-16ddce4bea64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log out']/parent::*</value>
+      <webElementGuid>986daa62-9a40-4609-852b-c163bf6fec92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div</value>
+      <webElementGuid>f7f9be4e-c943-495d-9066-efdb71fdf3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log out' or . = 'Log out')]</value>
+      <webElementGuid>78f71a2c-01e8-4521-bb49-4e3bbd13e8e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

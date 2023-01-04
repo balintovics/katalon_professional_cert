@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_My all-time favourite roleplaying_1</name>
+   <tag></tag>
+   <elementGuidId>74e97e25-50c3-4984-bd06-b1fc55712701</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/main/div/div[2]/form/div[5]/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.collection-form__textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>77ced218-0be9-431f-a4fe-31f3f4a85a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collection-form__textarea</value>
+      <webElementGuid>a277009d-e6d9-49a1-993c-71cd1d964259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write a description</value>
+      <webElementGuid>97997a75-50e6-4606-90ab-31fa746d8119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>86bd39c3-93b4-4da4-9e5f-c7ac1217cfd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My all-time favourite roleplaying </value>
+      <webElementGuid>ae16d42f-680b-4235-8b8e-237beda1cca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page page_secondary collection-create&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;content content_columns-1 collection-create__content&quot;]/div[@class=&quot;collection-form&quot;]/form[@class=&quot;collection-form__form&quot;]/div[@class=&quot;collection-form__filed collection-form__filed_textarea&quot;]/textarea[@class=&quot;collection-form__textarea&quot;]</value>
+      <webElementGuid>7ec9c559-9d0e-4b87-8fdd-e7cce5cb2677</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/main/div/div[2]/form/div[5]/textarea</value>
+      <webElementGuid>8e11f5b0-8eaf-46ee-ab13-2b8c06ccca33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::textarea[1]</value>
+      <webElementGuid>5bf1ab41-6a8b-40fe-9051-5d1964ba1378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection is visible only to me'])[1]/following::textarea[1]</value>
+      <webElementGuid>32c1d02f-5f83-47a2-90d7-1c94aceebd43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save changes'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>fa1304b4-d63c-42a5-814b-2f98bd57f207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My all-time favourite roleplaying']/parent::*</value>
+      <webElementGuid>75f02d23-7896-4a00-a061-d8eb5db3ede6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>d6329f9a-460e-4b39-b4cd-f2a25e72f17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Write a description' and (text() = 'My all-time favourite roleplaying ' or . = 'My all-time favourite roleplaying ')]</value>
+      <webElementGuid>85e38f04-4940-4c47-973f-30bef4e81339</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

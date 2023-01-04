@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Top 2015_rating-distribution__stat-item_2b6927</name>
+   <tag></tag>
+   <elementGuidId>213e636d-354f-4cf9-b474-324c7c75c7e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[5]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rating-distribution__stat-item.rating-distribution__stat-item_exceptional</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be06cbca-0c11-4b26-bd2d-50806e036d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rating-distribution__stat-item rating-distribution__stat-item_exceptional</value>
+      <webElementGuid>69212da3-3f6b-4e2e-91a7-1239f1c0ff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b34c7255-e3c0-425b-8501-435987b43076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>98fa7348-9fba-49f0-b020-d202b197fc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;rating-distribution game-rating-distribution&quot;]/div[@class=&quot;rating-distribution__stat&quot;]/div[@class=&quot;rating-distribution__stat-item rating-distribution__stat-item_exceptional&quot;]</value>
+      <webElementGuid>2f9d6953-78a6-4926-b5c9-875510951e7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[5]/div/div</value>
+      <webElementGuid>b79688bb-e54f-484e-bd85-37efbdd1df1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top 2015'])[1]/following::div[3]</value>
+      <webElementGuid>7e45f631-1c04-49bc-9623-38cdc44030d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[2]/following::div[4]</value>
+      <webElementGuid>cb92b33e-92f9-4d27-9d10-7f015ab3fc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptional'])[2]/preceding::div[9]</value>
+      <webElementGuid>63aa5aad-f2be-4496-ac86-9c25495f0960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommended'])[1]/preceding::div[14]</value>
+      <webElementGuid>cf9e3f22-9490-4567-b9fc-1c05acc8c26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>c5d93bf7-cace-4be9-9eb4-58674125d39c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

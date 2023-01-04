@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Witcher 3 Wild Hunt</name>
+   <tag></tag>
+   <elementGuidId>bf30eacf-110c-428d-9b27-5750ea0fa802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portals']/div/div[2]/div/div/div/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.game-card-compact__heading.game-card-compact__heading_with-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>596fa4f0-ebe1-43a5-adee-33455f1ae1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>game-card-compact__heading game-card-compact__heading_with-link</value>
+      <webElementGuid>8af4346f-1ab3-4f4c-82c1-315ee6297860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/games/the-witcher-3-wild-hunt</value>
+      <webElementGuid>98b12663-aecc-4872-8627-633d9e5f242c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Witcher 3: Wild Hunt</value>
+      <webElementGuid>dc73c095-c8fb-4c86-9a60-80cd352579e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portals&quot;)/div[1]/div[@class=&quot;dropdown__container dropdown__container_opened dropdown__container_standard-widths dropdown__container_search-suggestions header__search__suggestions__container&quot;]/div[@class=&quot;dropdown__content&quot;]/div[@class=&quot;header__search__suggestions__results&quot;]/div[@class=&quot;header__search__suggestions__section&quot;]/div[@class=&quot;search-results&quot;]/div[@class=&quot;search-results__item&quot;]/div[@class=&quot;game-card-compact game-card-compact_small search-results__game-card&quot;]/div[@class=&quot;game-card-compact__info&quot;]/a[@class=&quot;game-card-compact__heading game-card-compact__heading_with-link&quot;]</value>
+      <webElementGuid>bcf82afe-64b1-4885-b5c8-d6386ab99f6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portals']/div/div[2]/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>985f0e67-1973-4847-9db7-bc9a8231948e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Witcher 3: Wild Hunt')]</value>
+      <webElementGuid>a4fff485-1105-477d-a823-41a5a3e65073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Witcher 3: Game of the Year'])[1]/preceding::a[2]</value>
+      <webElementGuid>cd4080b9-e478-4d6c-9083-1730a50cd11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Witcher 3: Wild Hunt – Blood and Wine'])[1]/preceding::a[4]</value>
+      <webElementGuid>beb15e7d-2f80-4278-b740-67c98d8d85e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Witcher 3: Wild Hunt']/parent::*</value>
+      <webElementGuid>e9c36d01-257a-4cb3-940a-f66257057691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/games/the-witcher-3-wild-hunt')])[2]</value>
+      <webElementGuid>dcd1d03b-533a-45c1-96fb-25b2ca00eeed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>53c8f34f-ea25-4eef-96da-a0e07066c24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/games/the-witcher-3-wild-hunt' and (text() = 'The Witcher 3: Wild Hunt' or . = 'The Witcher 3: Wild Hunt')]</value>
+      <webElementGuid>64dd0cf8-23ed-4c32-8012-3b9a93484a97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

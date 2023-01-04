@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Uncategorized_btn-add-game__icon btn-ad_966f35</name>
+   <tag></tag>
+   <elementGuidId>638ca930-f4c4-4dbf-a492-33d2f6739e59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-add-game__icon.btn-add-game__icon-owned</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea2c8beb-cb82-4b2c-a756-136deb3e7c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add-game__icon btn-add-game__icon-owned</value>
+      <webElementGuid>798228a8-5885-4fe9-85b2-e7f9878c41c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;game-buttons-new game__buttons&quot;]/div[@class=&quot;btn-add-game btn-add-game_active&quot;]/div[@class=&quot;btn-add-game__content&quot;]/div[@class=&quot;btn-add-game__icon-container&quot;]/div[@class=&quot;btn-add-game__icon btn-add-game__icon-owned&quot;]</value>
+      <webElementGuid>d6d4dcf6-f3ec-44d9-a348-8fe4e717ba80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>c55877ee-f8f4-4580-9cfd-1170d6d9a8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>d78d075a-9a43-4b3d-b2fb-d4145b9c0324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

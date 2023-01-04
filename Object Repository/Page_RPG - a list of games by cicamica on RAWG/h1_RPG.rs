@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_RPG</name>
+   <tag></tag>
+   <elementGuidId>9c889cd3-48bd-4342-82bb-101df4bd3f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/main/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.heading.heading_1.collection-title__heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>c2a66ca4-ed0e-40ea-9a71-c8eee3ae2d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading heading_1 collection-title__heading</value>
+      <webElementGuid>578aec6a-dca5-489b-9475-0052de8c238f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RPG </value>
+      <webElementGuid>2f22fa03-dead-49f6-8a68-08e9105cb030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page discover-page collection&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;discover-page__content&quot;]/div[@class=&quot;discover-page__content-header&quot;]/div[@class=&quot;discover-page__content-header__left&quot;]/div[@class=&quot;collection-title&quot;]/h1[@class=&quot;heading heading_1 collection-title__heading&quot;]</value>
+      <webElementGuid>eef73654-333c-49fd-9a1d-ecbcd9fe0b64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/main/div/div/div/div/h1</value>
+      <webElementGuid>198e4380-8b4a-49c3-8b2b-7f10c98a2266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show all'])[3]/following::h1[1]</value>
+      <webElementGuid>2da9abfe-cd66-4d47-b22c-2377fa60841a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RPG'])[1]/following::h1[1]</value>
+      <webElementGuid>4b0c40b4-ba0c-419b-817f-4de0f630b634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add games'])[1]/preceding::h1[1]</value>
+      <webElementGuid>61f5d8a4-ab9c-4893-a6a0-6e65dd751268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e5b93eca-6b01-466f-b9ce-ef4f897f5457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>6b238a22-5b2d-408a-b056-f21f642bb925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'RPG ' or . = 'RPG ')]</value>
+      <webElementGuid>fd6b5c1b-b129-4eb3-adb4-920b8b7b58fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

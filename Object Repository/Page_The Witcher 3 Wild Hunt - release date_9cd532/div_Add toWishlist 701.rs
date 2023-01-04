@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add toWishlist 701</name>
+   <tag></tag>
+   <elementGuidId>7ce8d52a-4e4f-45bf-a8a5-ae998f891526</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-wishlist.btn-wishlist_inactive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b76cb872-3ede-431f-961e-fe8bd2e71739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-wishlist btn-wishlist_inactive</value>
+      <webElementGuid>0ce9598d-a9c8-46d2-9524-3992a1883f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2bb5f7ff-6736-4e37-8f36-4d6fcb4d249e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3bc2c3d6-c15f-4e19-8b36-263c4aa839d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add toWishlist 701</value>
+      <webElementGuid>1ba72a75-b8b7-4c3c-8d09-2d65b7766a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;game-buttons-new game__buttons&quot;]/div[@class=&quot;btn-wishlist btn-wishlist_inactive&quot;]</value>
+      <webElementGuid>f9cc71be-02b2-4723-9307-2d0eae25d3ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[4]</value>
+      <webElementGuid>2706dba5-7b1d-4a59-be25-2c41a246c726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My games'])[1]/following::div[3]</value>
+      <webElementGuid>501973d8-46df-4a10-b937-8ad20dfd8032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to'])[1]/following::div[4]</value>
+      <webElementGuid>b2a7d678-b9ea-43a8-acc0-cda3df332b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[4]</value>
+      <webElementGuid>ec9b0e4a-2f5b-4a32-8d30-a805c7401d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add toWishlist 701' or . = 'Add toWishlist 701')]</value>
+      <webElementGuid>5d0ee682-662c-4d6b-93fa-dd650f535837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

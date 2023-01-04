@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My games_btn-add-game__icon btn-add-gam_384c98</name>
+   <tag></tag>
+   <elementGuidId>bd9b7729-c269-485c-aafc-a5c17fe3fcc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-add-game__icon.btn-add-game__icon-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f86428a8-9b7d-4ba0-bd5b-b84278f5d4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add-game__icon btn-add-game__icon-plus</value>
+      <webElementGuid>4d151df1-d1cb-4fe2-a493-cbb79cd3a392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;game-buttons-new game__buttons&quot;]/div[@class=&quot;btn-add-game btn-add-game_inactive&quot;]/div[@class=&quot;btn-add-game__content&quot;]/div[@class=&quot;btn-add-game__icon-container&quot;]/div[@class=&quot;btn-add-game__icon btn-add-game__icon-plus&quot;]</value>
+      <webElementGuid>af134b42-74f3-41ca-908b-8e80d42005c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>6e47a885-34be-4a1c-9ec0-5188ba0cbcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/div</value>
+      <webElementGuid>6339cee6-bd84-4138-8830-03ab79d3a15a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

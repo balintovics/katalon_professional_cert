@@ -22,10 +22,10 @@ import groovy.json.JsonSlurper
 def slurper = new groovy.json.JsonSlurper()
 
 def page = 1
-def request = WS.sendRequest(findTestObject('RAWG/GET a list of games', [('page') : page]))
+def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of games', [('page') : page]))
 
 def hasNext = slurper.parseText(request.getResponseBodyContent()).next
 
 while (hasNext) {
-	request = WS.sendRequest(findTestObject('RAWG/GET a list of games', [('page') : ++page]))
+	request = WS.sendRequest(findTestObject('RAWG/API/GET a list of games', [('page') : ++page]))
 }

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start a new collection</name>
+   <tag></tag>
+   <elementGuidId>8b2a1fd9-365d-43a8-b8fc-862cec770c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portals']/div/div[2]/div/ul/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32e15850-aa20-46e1-9c56-4e05d2e5c6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/create?addGame=3328</value>
+      <webElementGuid>2078ecab-2af7-477d-8869-6807b8432ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start a new collection</value>
+      <webElementGuid>fb89d558-a32a-4d4b-8559-d66341af44bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portals&quot;)/div[1]/div[@class=&quot;dropdown__container dropdown__container_opened dropdown__container_standard-widths dropdown__container_card game-card-buttons__dropdown-wrapper&quot;]/div[@class=&quot;dropdown__content&quot;]/ul[@class=&quot;select-content game__collections-list&quot;]/div[@class=&quot;select-content__item select-content__item_link&quot;]/a[1]</value>
+      <webElementGuid>5493937d-2065-4df8-89c8-df3a2f9dfd4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portals']/div/div[2]/div/ul/div[2]/a</value>
+      <webElementGuid>51155ea2-7ad1-4167-af7b-37948e902710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start a new collection')]</value>
+      <webElementGuid>2f624553-0866-4964-ba38-a7924ce6a231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select collections'])[1]/following::a[1]</value>
+      <webElementGuid>d592d332-c1ef-4fdd-90fd-744e93e26b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies Policy'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe6b7ccb-e8f0-4476-978e-601ef4317ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Witcher 3: Wild Hunt'])[1]/preceding::a[2]</value>
+      <webElementGuid>a440738e-300c-48aa-bf68-cc491b348e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start a new collection']/parent::*</value>
+      <webElementGuid>b9f3d610-602e-44ed-8965-42248cafdc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/collections/create?addGame=3328')]</value>
+      <webElementGuid>940c57a7-bfce-412a-9ee9-dba7cc91d538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>103f5983-8c53-4468-ae7d-21f89741aa75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/create?addGame=3328' and (text() = 'Start a new collection' or . = 'Start a new collection')]</value>
+      <webElementGuid>f7af709d-ef3f-44e1-9ea9-65cec7dc482b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

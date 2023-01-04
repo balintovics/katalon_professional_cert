@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save to</name>
+   <tag></tag>
+   <elementGuidId>b2a04eec-a88b-4810-b544-95eaff3774c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-collection__subtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>88673e3d-c85d-4157-92d8-34556a851daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-collection__subtitle</value>
+      <webElementGuid>b371ca5b-652f-4029-b382-74bae388f10d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save to</value>
+      <webElementGuid>863fcbbf-8ea4-434f-a214-4b13b64e5fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app locale-en&quot;]/div[@class=&quot;page game&quot;]/div[@class=&quot;page__content-wrap-centerer&quot;]/div[@class=&quot;page__content-wrap with-sidebar&quot;]/main[@class=&quot;page__content&quot;]/div[@class=&quot;game__content-wrap&quot;]/div[@class=&quot;game-content-columns&quot;]/div[1]/div[@class=&quot;game-buttons-new game__buttons&quot;]/div[@class=&quot;btn-collection btn-collection_inactive&quot;]/div[@class=&quot;btn-collection__text&quot;]/div[@class=&quot;btn-collection__subtitle&quot;]</value>
+      <webElementGuid>63d51103-4ec1-4a0e-b0e4-4188aa4af220</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/main/div/div[2]/div/div[3]/div[6]/div/div</value>
+      <webElementGuid>9ed2a8f5-f1f3-4140-a529-8bc901d541a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to'])[2]/following::div[7]</value>
+      <webElementGuid>a1dff22d-ac1d-4fc9-869b-10f62ead9edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection'])[1]/preceding::div[1]</value>
+      <webElementGuid>d342f681-4195-41e8-8b2a-33296e7f80bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exceptional'])[1]/preceding::div[4]</value>
+      <webElementGuid>11800064-3d0f-4de6-84f4-a27856ca575c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save to']/parent::*</value>
+      <webElementGuid>78875067-4c90-4ebe-ab2e-c6bc6b58ccab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>0ccc02a8-8559-41d8-b8ec-6bf6d2849d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Save to' or . = 'Save to')]</value>
+      <webElementGuid>0c96c478-f264-4bc5-8cd5-dfb3f0965f4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

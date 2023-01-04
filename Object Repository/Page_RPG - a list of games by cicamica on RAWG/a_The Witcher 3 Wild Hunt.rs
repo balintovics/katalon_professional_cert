@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Witcher 3 Wild Hunt</name>
+   <tag></tag>
+   <elementGuidId>10086a39-00e6-42d1-a2b1-aee916bc25f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='load-more-button']/div/div/div/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.game-card-medium__info__name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3eaa7428-92c2-4301-a52c-06bfe2056fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>game-card-medium__info__name</value>
+      <webElementGuid>18ad12bc-7b44-41e5-a549-f0054b5b2548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/games/the-witcher-3-wild-hunt</value>
+      <webElementGuid>0311e91c-0ee0-45f5-ac1e-b69c51bfe85c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Witcher 3: Wild Hunt</value>
+      <webElementGuid>d55fb770-e3b2-4ba3-a1d6-6aea16903ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;load-more-button&quot;)/div[@class=&quot;discover-columns&quot;]/div[@class=&quot;discover-columns__column&quot;]/div[@class=&quot;game-card-medium game-card-medium_opened&quot;]/div[@class=&quot;game-card-medium__wrapper&quot;]/div[@class=&quot;game-card-medium__info&quot;]/div[@class=&quot;heading heading_4&quot;]/a[@class=&quot;game-card-medium__info__name&quot;]</value>
+      <webElementGuid>17f4cadf-9511-4568-9763-52da04f5144a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='load-more-button']/div/div/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>a509db55-32bb-4fa7-9cc5-f5c3e5e4fb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Witcher 3: Wild Hunt')]</value>
+      <webElementGuid>d0fd400f-c691-4564-a968-b68596c36a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play full video'])[1]/following::a[1]</value>
+      <webElementGuid>dd5e2b2e-1105-468a-a5ac-b4632038c088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display options:'])[1]/following::a[1]</value>
+      <webElementGuid>b4ca0bf6-4bbb-4bc6-8c9b-f66c15a41d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release date:'])[1]/preceding::a[1]</value>
+      <webElementGuid>9bc1ff11-445c-439a-8fe2-1e428d87cfb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 18, 2015'])[1]/preceding::a[1]</value>
+      <webElementGuid>2ae29343-0326-40f8-ba15-d788dc503387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Witcher 3: Wild Hunt']/parent::*</value>
+      <webElementGuid>f5726794-b89d-4812-ad65-035c64fd3987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/games/the-witcher-3-wild-hunt')]</value>
+      <webElementGuid>4efb913a-3623-4c7e-863f-5a4eb5efce6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>e805124f-1b07-4be3-bcb5-2b21b72904bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/games/the-witcher-3-wild-hunt' and (text() = 'The Witcher 3: Wild Hunt' or . = 'The Witcher 3: Wild Hunt')]</value>
+      <webElementGuid>cdbea7bf-9f08-4ddb-a3bc-567c13d643e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
