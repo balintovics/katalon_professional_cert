@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>GET the list of all genres</name>
+   <name>GET the list of genres</name>
    <tag>rawg</tag>
    <comment></comment>
    <testCaseGuid>4b0d5643-d9c5-4493-8742-c2e1c7670d5c</testCaseGuid>

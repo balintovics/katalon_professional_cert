@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>GET the list of all tags</name>
+   <name>GET game developers - parameterized page count</name>
    <tag>rawg</tag>
    <comment></comment>
-   <testCaseGuid>daeaeb3a-a97c-4b1c-8cf3-343e6fe9a231</testCaseGuid>
+   <testCaseGuid>884cffe7-32e9-4299-9791-a7208fd23e8d</testCaseGuid>
 </TestCaseEntity>

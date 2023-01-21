@@ -11,27 +11,11 @@
    <httpBody></httpBody>
    <httpBodyContent></httpBodyContent>
    <httpBodyType></httpBodyType>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>${GlobalVariable.hostHeader}</name>
-      <type>Main</type>
-      <value>${GlobalVariable.host}</value>
-      <webElementGuid>7992de87-f0b3-41a7-bab9-3d300e0cdacc</webElementGuid>
-   </httpHeaderProperties>
-   <httpHeaderProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>${GlobalVariable.apiKeyHeader}</name>
-      <type>Main</type>
-      <value>${GlobalVariable.apiKey}</value>
-      <webElementGuid>b85af2de-e88d-43e8-9559-b3227c4e3e95</webElementGuid>
-   </httpHeaderProperties>
    <katalonVersion>8.5.5</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.baseUrl}${GlobalVariable.genresPath}?key=${GlobalVariable.key}</restUrl>
+   <restUrl>${GlobalVariable.rawgUrl}${GlobalVariable.genresPath}?key=${GlobalVariable.key}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

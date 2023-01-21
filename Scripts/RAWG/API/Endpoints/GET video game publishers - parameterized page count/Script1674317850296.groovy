@@ -23,10 +23,13 @@ import groovy.json.JsonSlurper
 def slurper = new groovy.json.JsonSlurper()
 
 def page = 1
-WS.comment('Getting a list of games on page: '.concat(page.toString()))
+WS.comment('Getting a list of video game publishers on page: '.concat(page.toString()))
 
-def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of genres'))
+def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game publishers'))
+def hasNext = slurper.parseText(request.getResponseBodyContent()).next
 
-def response = slurper.parseText(request.getResponseBodyContent()).results.name
-
-assertThat(response).contains('Action')
+while (page < GlobalVariable.pageCount) {
+	
+	WS.comment('Getting a list of video game publishers on page: '.concat(++page.toString()))
+	request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game publishers', [('page') : ++page]))
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>GET all video game platforms</name>
+   <name>GET video game storefronts</name>
    <tag>rawg</tag>
    <comment></comment>
-   <testCaseGuid>d77ae7eb-0f1a-4da5-ae89-56f1ae4bccb1</testCaseGuid>
+   <testCaseGuid>7657237a-f081-419d-8f92-213df629fa8e</testCaseGuid>
 </TestCaseEntity>

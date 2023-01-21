@@ -28,7 +28,8 @@ def creatorPositions = WS.sendRequest(findTestObject('RAWG/API/GET a list of cre
 def responseBody = slurper.parseText(creatorPositions.getResponseBodyContent()).results
 
 println responseBody
-def position = responseBody.findAll{it.name == 'programmer'}.name[0]
+def firstIndex = 0
+def position = responseBody.findAll{it.name == 'programmer'}.name[firstIndex]
 println position
 
 WS.comment('I want to be a '.concat(position))

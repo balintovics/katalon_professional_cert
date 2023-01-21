@@ -23,13 +23,13 @@ import groovy.json.JsonSlurper
 def slurper = new groovy.json.JsonSlurper()
 
 def page = 1
-WS.comment('Getting a list of video game platforms on page: '.concat(page.toString()))
+WS.comment('Getting a list of tags on page: '.concat(page.toString()))
 
-def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game platforms'))
+def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of tags'))
 def hasNext = slurper.parseText(request.getResponseBodyContent()).next
 
-while (hasNext) {
+while (page < GlobalVariable.pageCount) {
 	
-	WS.comment('Getting a list of video game platforms on page: '.concat(++page.toString()))
-	request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game platforms', [('page') : ++page]))
+	WS.comment('Getting a list of tags on page: '.concat(++page.toString()))
+	request = WS.sendRequest(findTestObject('RAWG/API/GET a list of tags', [('page') : ++page]))
 }

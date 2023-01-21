@@ -6,37 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://rawg-video-games-database.p.rapidapi.com/'</initValue>
-      <name>baseUrl</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
       <initValue>'games'</initValue>
       <name>gamesPath</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'X-RapidAPI-Key'</initValue>
-      <name>apiKeyHeader</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'fa4dbe8e33msh93d22909b8f16fep1b76adjsne3a0b42645ee'</initValue>
-      <name>apiKey</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'X-RapidAPI-Host'</initValue>
-      <name>hostHeader</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'rawg-video-games-database.p.rapidapi.com'</initValue>
-      <name>host</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'784d638834b946e897ef5ea38abbef35'</initValue>
+      <initValue>'4e49565bc4654dd2bba30f8235a34f21'</initValue>
       <name>key</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -128,5 +103,10 @@
       <description></description>
       <initValue>-1</initValue>
       <name>witcherId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>pageCount</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

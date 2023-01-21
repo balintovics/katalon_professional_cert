@@ -6,12 +6,12 @@
    <elementGuidId>a65dfd32-16dc-4fbe-b5f4-74ff129f2e55</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[4]/div/div/main/div/div[2]/div/div[2]/h1</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h1.heading.heading_1.game__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='May 18, 2015'])[1]/following::h1[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
