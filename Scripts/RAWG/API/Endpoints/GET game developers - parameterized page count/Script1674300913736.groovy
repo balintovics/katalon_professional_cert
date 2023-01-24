@@ -17,19 +17,21 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import groovy.json.JsonSlurper
+import groovy.json.JsonSlurper as JsonSlurper
 
-
-def slurper = new groovy.json.JsonSlurper()
+def slurper = new JsonSlurper()
 
 def page = 1
+
 WS.comment('Getting a list of game developers on page: '.concat(page.toString()))
 
-def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game developers'))
+def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game developers', [('page') : page]))
+
 def hasNext = slurper.parseText(request.getResponseBodyContent()).next
 
 while (page < GlobalVariable.pageCount) {
-	
-	WS.comment('Getting a list of video game creators on page: '.concat(++page.toString()))
-	request = WS.sendRequest(findTestObject('RAWG/GET a list of game developers', [('page') : ++page]))
+    WS.comment('Getting a list of video game creators on page: '.concat(++(page.toString())))
+
+    request = WS.sendRequest(findTestObject('RAWG/API/GET a list of video game developers', [('page') : ++page]))
 }
+

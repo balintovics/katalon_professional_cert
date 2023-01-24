@@ -17,11 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://rawg.io/')
 
 WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://rawg.io/')
 
 WebUI.click(findTestObject('Object Repository/RAWG/Web/Page_The Biggest Video Game Database on RAW_362597_login/a_Log in'))
 

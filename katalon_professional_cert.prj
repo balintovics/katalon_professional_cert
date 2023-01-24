@@ -6,7 +6,7 @@
    <UUID>df5ea5ff-0814-4dd3-bef4-d66bb3092c8e</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Lenovo\Katalon Studio\katalon_professional_cert\katalon_professional_cert.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\damiel\Katalon Studio\katalon_professional_cert (5)\katalon_professional_cert.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -26,5 +26,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>MOBILE</type>
 </Project>

@@ -28,7 +28,7 @@ def request = WS.sendRequest(findTestObject('RAWG/API/GET a list of games', [('p
 
 def hasNext = slurper.parseText(request.getResponseBodyContent()).next
 
-while (hasNext) {
+while (page < GlobalVariable.pageCount) {
 	
 	WS.comment('Getting a list of games on page: '.concat(++page.toString()))
 	request = WS.sendRequest(findTestObject('RAWG/API/GET a list of games', [('page') : ++page]))
